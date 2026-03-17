@@ -3,7 +3,7 @@
 > **Interactive Survival Analysis Simulation with Bias**  
 > An R Shiny application to simulate and visualize the impact of censoring and sample removal on Kaplan-Meier survival curves.
 
-[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/license-GPLv3-blue.svg)](LICENSE)
 [![R](https://img.shields.io/badge/R-%3E%3D4.0.0-276DC3?logo=r)](https://www.r-project.org/)
 [![Shiny](https://img.shields.io/badge/Shiny-Framework-blue?logo=rstudio)](https://shiny.rstudio.com/)
 
@@ -298,16 +298,7 @@ Contributions are welcome! This is an academic project under active development.
 
 ## 📄 License
 
-This project is licensed under the **Apache License 2.0** - see the [LICENSE](LICENSE) file for details.
-
-### License Summary
-
-- ✅ Commercial use
-- ✅ Modification
-- ✅ Distribution
-- ✅ Patent use
-- ❗ Must include license and copyright notice
-- ❗ Changes must be documented
+This project is licensed under the **GNU General Public License v3.0 (GPL-3.0)** - see the [LICENSE](LICENSE) file for details.
 
 ---
 
